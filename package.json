@@ -1,0 +1,19 @@
+{
+  "name": "cicd-test",
+  "version": "1.0.0",
+  "description": "[Automate your workflow from idea to production](https://github.com/features/actions) [GitHub Actions documentation](https://docs.github.com/en/actions) [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart) [github marketplace](https://github.com/marketplace) [Marketplace Actions Serverless](https://github.com/marketplace/actions/serverless)",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoralves1/serverless-CICD-aws-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igoralves1/serverless-CICD-aws-nodejs/issues"
+  },
+  "homepage": "https://github.com/igoralves1/serverless-CICD-aws-nodejs#readme"
+}
